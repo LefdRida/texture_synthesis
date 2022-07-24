@@ -12,5 +12,9 @@ The technique is described then as follows:
 #Results 
 
 ![alt text](https://github.com/LefdRida/texture_synthesis/blob/main/imagetest/res1.png)
+
+
 ![alt text](https://github.com/LefdRida/texture_synthesis/blob/main/imagetest/res2.png)
+
+
 ![alt text](https://github.com/LefdRida/texture_synthesis/blob/main/imagetest/res3.png)
