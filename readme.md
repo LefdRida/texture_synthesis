@@ -7,3 +7,4 @@ The aim of this project is to study a texture synthesis technique based on Convo
 The key idea of the method is to generate the new texture by minimizing the error between the gram matrix of feature maps of the original texture and the gram matrix of feature maps of a random noise through gradient descent algorithm.
 
 The technique is described then as follows: 
+![alt text](https://github.com/LefdRida/texture_synthesis/blob/main/imagetest/download.png)
