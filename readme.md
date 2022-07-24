@@ -1,4 +1,4 @@
-# Texture synthesis
+# Texture synthesis using convolutional neural network
 Texture syntesis is the process of generating a new texture that captures all the visual characteristics from the original texture, but the two textures are not identical.
 
 
